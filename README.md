@@ -5,18 +5,23 @@
 Переименовать файл, дав ему новое имя (Друзья человека).
 
 root@gb:/# mkdir finalwork
+
 root@gb:/# cd finalwork/
+
 root@gb:/finalwork# cat > "Домашние животные.txt"
+
 Собака
 Кошка
 Хомяк
 ^C
 root@gb:/finalwork# cat > "Вьючные животные.txt"
+
 Лошадь
 Верблюд
 Осел
 ^C
 root@gb:/finalwork# cat "Домашние животные.txt" "Вьючные животные.txt" > "Объединенный файл.txt"
+
 root@gb:/finalwork# cat "Объединенный файл.txt"
 Собака
 Кошка
@@ -25,11 +30,14 @@ root@gb:/finalwork# cat "Объединенный файл.txt"
 Верблюд
 Осел
 root@gb:/finalwork# mv 'Объединенный файл.txt' Друзья_человека.txt
+
 root@gb:/finalwork# ls -l
+
 итого 12
 -rw-r--r-- 1 root root 37 июл 26 18:43 'Вьючные животные.txt'
 -rw-r--r-- 1 root root 35 июл 26 18:43 'Домашние животные.txt'
 -rw-r--r-- 1 root root 72 июл 26 18:44  Друзья_человека.txt
+
 root@gb:/finalwork# cat Друзья_человека.txt
 Собака
 Кошка
