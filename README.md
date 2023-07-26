@@ -37,6 +37,8 @@ root@gb:/finalwork# cat Друзья_человека.txt
 Лошадь
 Верблюд
 Осел
+
+
 2.Создать директорию, переместить файл туда.
 
 root@gb:/finalwork# mkdir HumanFriends
