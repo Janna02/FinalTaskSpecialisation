@@ -78,7 +78,12 @@ root@gb:/# sudo apt-get autoremove
 
 ![image](https://github.com/Janna02/FinalTaskSpecialisation/assets/10546158/8b64f972-a629-4f3f-97dc-94fb47df37b9)
 
+6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние
+животные и вьючные животные, в составы которых в случае домашних
+животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
+войдут: Лошади, верблюды и ослы)
 
+![Animals](https://github.com/Janna02/FinalTaskSpecialisation/assets/10546158/bf67c680-1b88-48e5-83e1-59a982d18e6e)
 
 
 
